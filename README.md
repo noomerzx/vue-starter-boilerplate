@@ -2,6 +2,7 @@
 ============
 > A boilerplate for Vue.js with initial necessary project structure.
 
+----------------------------------------
 ## Dependencies
 * Vue
 * Vue-Router
@@ -9,6 +10,15 @@
 * Axios
 * Webpack
 
+----------------------------------------
+## Project Structure
+* <b>components</b>: contain shared components (.vue)
+* <b>router</b>: router file config here
+* <b>store</b>: state mangement with vuex
+* <b>utils</b>: javascript utility file, for example vue filter
+* <b>views</b>: container root components for each page (.vue)
+
+----------------------------------------
 ## Build Setup
 
 ``` bash
