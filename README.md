@@ -1,6 +1,13 @@
-# vue-starter-boilerplate
+# Vue Starter Boilerplate
+============
+> A boilerplate for Vue.js with initial necessary project structure.
 
-> A boilerplate for Vue.js including Vue, Vue-Router, Vuex, Axios
+## Dependencies
+* Vue
+* Vue-Router
+* Vuex
+* Axios
+* Webpack
 
 ## Build Setup
 
